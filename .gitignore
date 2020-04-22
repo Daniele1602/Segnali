@@ -1,0 +1,10 @@
+.idea/* 
+Main.py
+__pycache__
+Setup.py command.txt
+build/*
+dist
+venv/*
+abc.py
+setuptools.setup structure.txt
+*egg-info/*
