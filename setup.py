@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="signals", # Replace with your own username
-    version="1.0",
+    name="signalsgraphs", # Replace with your own username
+    version="1.1",
     author="Pasulo Daniele",
     author_email="daniele.pasulo@marconirovereto.com",
     description="Package for signals representation",

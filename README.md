@@ -3,7 +3,7 @@
 Pacchetto contenente delle funzioni per la rappresentazione grafica dei segnali.<br/>
 Istruzione di import: "from Signals import signal"
 
-<u>Version 1.0</u><br/>
+Version 1.0<br/>
 Methods:
 <ul>
     <li>amsignal(am, ap, fm, fp, mostraSpettro)</li>
